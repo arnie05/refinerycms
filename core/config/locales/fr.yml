@@ -49,12 +49,13 @@ fr:
         remove_current: "Supprimer le fichier actuel"
         no_resource_selected: Il n'y a actuellement aucun fichier de sélectionné. Veuillez cliquer ici pour en ajouter un.
         name: Ajouter un fichier
-        current: Fichier courrant
+        current: Fichier courant
       search:
         button_text: Rechercher
         results_for_html: "Résultats de la recherche &#8216;<em>%{query}</em>&#8217;"
         no_results: Aucun résultat ne correspond à votre recherche
         cancel_search: 'Annuler la recherche'
+        search_input_notice: ''
         input:
           placeholder: "Rechercher&8230;"
           help: "Entrez ici le texte recherché. La longueur minimale est de 3 caractères."
